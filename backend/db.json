@@ -1,0 +1,121 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "name": "Luxury Manhattan Loft",
+      "type": "Apartment",
+      "price": 4500000,
+      "pricePerSqft": 1800,
+      "location": "Upper West Side, New York",
+      "description": "Stunning 3-bedroom loft with panoramic city views. Features floor-to-ceiling windows, smart home technology, and premium finishes throughout. Building amenities include 24/7 concierge, fitness center, and rooftop terrace.",
+      "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "area": 2500,
+      "amenities": ["Doorman", "Gym", "Parking", "Pool", "Laundry"],
+      "coordinates": {
+        "lat": 40.785091,
+        "lng": -73.968285
+      }
+    },
+    {
+      "id": "2",
+      "name": "Charming Vermont Cottage",
+      "type": "Cottage",
+      "price": 650000,
+      "pricePerSqft": 325,
+      "location": "Stowe, Vermont",
+      "description": "Quaint 2-bedroom cottage nestled in the Green Mountains. Features a wood-burning fireplace, wraparound porch, and private hiking trails. Perfect year-round getaway with ski resorts just 15 minutes away.",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area": 2000,
+      "amenities": ["Fireplace", "Mountain View", "Garden", "Patio"],
+      "coordinates": {
+        "lat": 44.465433,
+        "lng": -72.687402
+      }
+    },
+    {
+      "id": "3",
+      "name": "Modern Lakefront Condo",
+      "type": "Apartment",
+      "price": 1200000,
+      "pricePerSqft": 950,
+      "location": "Downtown Los Angeles",
+      "description": "Sleek 2-bedroom condo with breathtaking lake views. Open floor plan with high-end appliances, walk-in closets, and private balcony. Building features resort-style pool, business center, and secure parking.",
+      "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": 1263,
+      "amenities": ["Lake View", "Pool", "Gym", "Concierge", "Parking"],
+      "coordinates": {
+        "lat": 34.052235,
+        "lng": -118.243683
+      }
+    },
+    {
+      "id": "4",
+      "name": "Historic Brownstone",
+      "type": "House",
+      "price": 3200000,
+      "pricePerSqft": 750,
+      "location": "Brooklyn Heights, New York",
+      "description": "Exquisitely restored 4-story brownstone with original details. Features chef's kitchen, 5 bedrooms, home office, and private garden. Located in one of Brooklyn's most sought-after neighborhoods.",
+      "image": "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "area": 4266,
+      "amenities": ["Garden", "Fireplace", "Hardwood Floors", "Home Office"],
+      "coordinates": {
+        "lat": 40.695347,
+        "lng": -73.993371
+      }
+    },
+    {
+      "id": "5",
+      "name": "Desert Modern Villa",
+      "type": "Villa",
+      "price": 2800000,
+      "pricePerSqft": 520,
+      "location": "Palm Springs, California",
+      "description": "Architectural masterpiece with mountain views. Floor-to-ceiling glass walls, infinity pool, and smart home features. Includes guest house and outdoor entertainment area with fire pit.",
+      "image": "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+      "bedrooms": 4,
+      "bathrooms": 4.5,
+      "area": 5384,
+      "amenities": ["Pool", "Mountain View", "Smart Home", "Guest House"],
+      "coordinates": {
+        "lat": 33.830296,
+        "lng": -116.545292
+      }
+    },
+    {
+    "id": "6",
+    "name": "Skyline Penthouse",
+    "type": "Penthouse",
+    "price": 8750000,
+    "pricePerSqft": 2200,
+    "location": "Chicago, Illinois",
+    "description": "Breathtaking 5,000 sqft penthouse with 360° city and lake views. Features include a private rooftop terrace with hot tub, smart home automation, chef's kitchen with premium appliances, and a home theater. Floor-to-ceiling windows showcase stunning sunsets over Lake Michigan.",
+    "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+    "bedrooms": 4,
+    "bathrooms": 4.5,
+    "area": 5000,
+    "amenities": [
+        "Rooftop Terrace",
+        "Hot Tub",
+        "Smart Home",
+        "Home Theater",
+        "Concierge",
+        "Parking",
+        "Fitness Center",
+        "Wine Cellar"
+    ],
+    "coordinates": {
+        "lat": 41.878113,
+        "lng": -87.629799
+    }
+    }
+  ]
+}
